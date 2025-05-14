@@ -1,16 +1,8 @@
+![Screenshot 2025-05-14 180907](https://github.com/user-attachments/assets/a577dc40-abdc-4581-aa50-759c6fcc6828)
 # Dart Tic-Tac-Toe
 
 A simple console-based Tic-Tac-Toe game written in Dart.
 
-
-## How to Run
-
-1. Install Dart from [https://dart.dev/get-dart](https://dart.dev/get-dart)
-
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/dart-tic-tac-toe.git
-   cd dart-tic-tac-toe
 
 
 Game Instructions
